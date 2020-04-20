@@ -1,0 +1,18 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-image: url("https://www.beautycolorcode.com/ff7f7f.png");
+
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+  font: bold;
+}
+#Link {
+  color: green;
+  font-size: 50px;
+}
